@@ -2,13 +2,6 @@
 
 # 📜 𝕿𝖍𝖊 𝕬𝖗𝖈𝖍𝖎𝖛𝖊𝖘 𝖔𝖋 𝕬𝖉𝖆𝖒 𝕹𝖔𝖊𝖗 𝕳𝖎𝖉𝖆𝖞𝖆𝖙𝖚𝖑𝖑𝖔𝖍 📜
 
-<p align="center">
-  <img src="assets/banner-vintage.svg" alt="Adam Noer Hidayatulloh" width="100%" />
-</p>
-
-<p align="center">
-  <img src="assets/avatar-pixel.svg" alt="pixel avatar" width="200" />
-</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/adam-hidayatullah-b25a87195" target="_blank">
@@ -30,13 +23,13 @@
 
 ## ♜ [ Character Profile ]
 
-**Class:** Fullstack Developer & Engineering Deputy Lead  
+**Class:** Senior Fullstack Developer & Engineering Deputy Lead  
 **Level:** 5+ Years of Experience  
-**Base:** Jonggol, Bogor, West Java
+**Base:** Jonggol, Bogor, West Java, Indonesia
 
-Seorang *crafter* kode yang membangun sistem end-to-end dengan skalabilitas tinggi dan *user-centric*. Terbiasa memimpin *guild* (tim cross-functional), merancang arsitektur enterprise-grade, dan mengoptimalkan SDLC untuk mempercepat siklus deployment tanpa mengorbankan stabilitas sistem. 
+A master code crafter forging highly scalable and user-centric end-to-end systems. Battle-tested in leading guilds (cross-functional teams), designing enterprise-grade architectures, and optimizing the SDLC to accelerate deployment cycles without compromising system stability.
 
-Saat ini sedang berfokus menyelesaikan *Main Quest* dalam mengembangkan produk berbasis **AI/Computer Vision** — mulai dari *Virtual Try-On* untuk jam tangan mewah, sistem deteksi cacat produk berbasis YOLO, hingga integrasi AI pada ERP internal menggunakan LLM open-source hasil *fine-tuning* mandiri.
+Currently on a **Main Quest** to develop **AI/Computer Vision** products — ranging from a Virtual Try-On tool for luxury watches and a YOLO-based product defect detection system, to integrating AI into internal ERPs using self-fine-tuned open-source LLMs.
 
 ```bash
 [~] ./adam_status.sh
@@ -62,12 +55,14 @@ Saat ini sedang berfokus menyelesaikan *Main Quest* dalam mengembangkan produk b
   <img src="https://img.shields.io/badge/Astro-3E2723?style=flat-square&logo=astro&logoColor=D4A017" />
 </p>
 
-### 🗡️ Back-End
+### 🗡️ Back-End & Mobile
 <p>
   <img src="https://img.shields.io/badge/Laravel-6B6B3A?style=flat-square&logo=laravel&logoColor=F4ECD8" />
   <img src="https://img.shields.io/badge/Nest.js-6B6B3A?style=flat-square&logo=nestjs&logoColor=F4ECD8" />
   <img src="https://img.shields.io/badge/Django-6B6B3A?style=flat-square&logo=django&logoColor=F4ECD8" />
   <img src="https://img.shields.io/badge/CodeIgniter-6B6B3A?style=flat-square&logo=codeigniter&logoColor=F4ECD8" />
+  <img src="https://img.shields.io/badge/Golang-6B6B3A?style=flat-square&logo=go&logoColor=F4ECD8" />
+  <img src="https://img.shields.io/badge/Flutter-6B6B3A?style=flat-square&logo=flutter&logoColor=F4ECD8" />
 </p>
 
 ### 🔮 AI & Machine Learning
@@ -85,24 +80,43 @@ Saat ini sedang berfokus menyelesaikan *Main Quest* dalam mengembangkan produk b
   <img src="https://img.shields.io/badge/CI%2FCD-8A6D3B?style=flat-square&logo=githubactions&logoColor=F4ECD8" />
   <img src="https://img.shields.io/badge/Git-8A6D3B?style=flat-square&logo=git&logoColor=F4ECD8" />
   <img src="https://img.shields.io/badge/Linux-8A6D3B?style=flat-square&logo=linux&logoColor=F4ECD8" />
-  <img src="https://img.shields.io/badge/Vercel-8A6D3B?style=flat-square&logo=vercel&logoColor=F4ECD8" />
 </p>
 
 <p align="center">
   <img src="assets/divider-pixel.svg" width="100%" height="14" />
 </p>
 
-## 📜 [ Quest Log: Rekam Jejak ]
+## 🗺️ [ Side Quests: Recent Projects ]
 
-| Peran / Title | Guild / Perusahaan | Periode |
-| :--- | :--- | :--- |
-| **Fullstack Developer** | Wrapstation | May 2026 – Present |
-| **Senior Fullstack Dev & Deputy Leader** | PT Bizera Digital Indonesia | Jun 2025 – Mar 2026 |
-| **Senior Software Engineer** | PT Vaganza Solusi Internasional | Mar 2022 – Apr 2025 |
-| **Fullstack Web Developer** | Bima Global Study | Oct 2024 – Mar 2025 |
-| **Fullstack Developer** *(Mercenary)* | Freelancer | Apr 2021 – Present |
+*   **Nalar.ai** 🧠 — A Tailwind-styled wrapper application connecting messaging endpoints with Notion workspaces.
+*   **NexusPlay** 🎮 — A multimedia micro-blogging and interactive polling web platform built from scratch.
+*   **RPG Fitness App** ⚔️ — A local-first Flutter application utilizing state management for daily exercise quests, inspired by *Solo Leveling*.
+*   **Dark Survival RPG** 🏕️ — Exploring custom mechanics and world-building in RPG Maker.
 
-> 🏆 **Achievement Unlocked:** Menjaga **99.9% system uptime** pada aplikasi web berskala enterprise sambil memimpin tim cross-functional dan merancang arsitektur RESTful/GraphQL yang *scalable*.
+<p align="center">
+  <img src="assets/divider-pixel.svg" width="100%" height="14" />
+</p>
+
+## 📜 [ Quest Log: Experience ]
+
+| Class / Role | Guild / Company | Region | Duration |
+| :--- | :--- | :--- | :--- |
+| **Fullstack Developer** | Wrapstation | Tangerang | May 2026 – Present |
+| **Senior Fullstack Dev & Deputy Lead** | PT Bizera Digital Indonesia | Jakarta Timur | Jun 2025 – Mar 2026 |
+| **Senior Software Engineer** | PT Vaganza Solusi Internasional | - | Mar 2022 – Apr 2025 |
+| **Fullstack Web Developer** | Bima Global Study | Malang | Oct 2024 – Mar 2025 |
+| **Fullstack Developer** *(Mercenary)* | Freelancer | Bogor | Apr 2021 – Present |
+
+> 🏆 **Achievement Unlocked:** Streamlined the Software Development Life Cycle (SDLC) by implementing Agile/Scrum methodologies and robust CI/CD pipelines, resulting in faster deployment cycles and higher release stability.
+
+<p align="center">
+  <img src="assets/divider-pixel.svg" width="100%" height="14" />
+</p>
+
+## 🏫 [ Training Grounds: Education ]
+
+**Politeknik Pos Indonesia - Bandung**  
+*Associate Degree in Informatics Engineering* | Jun 2017 – Apr 2021
 
 <p align="center">
   <img src="assets/divider-pixel.svg" width="100%" height="14" />
@@ -111,7 +125,7 @@ Saat ini sedang berfokus menyelesaikan *Main Quest* dalam mengembangkan produk b
 ## 📡 [ Multiplayer / Co-op Mode ]
 
 <p align="center">
-  📱 0822-9793-0060 &nbsp;⬩&nbsp; 📧 <a href="mailto:adamnoer62@gmail.com">adamnoer62@gmail.com</a> &nbsp;⬩&nbsp; 🌐 <a href="https://portofolioadam.xyz">portofolioadam.xyz</a>
+  📱 +62 822-9793-0060 &nbsp;⬩&nbsp; 📧 <a href="mailto:adamnoer62@gmail.com">adamnoer62@gmail.com</a> &nbsp;⬩&nbsp; 🌐 <a href="https://portofolioadam.xyz">portofolioadam.xyz</a>
 </p>
 
 <p align="center">
