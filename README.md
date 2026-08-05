@@ -1,3 +1,7 @@
+<div align="center">
+
+# 📜 𝕿𝖍𝖊 𝕬𝖗𝖈𝖍𝖎𝖛𝖊𝖘 𝖔𝖋 𝕬𝖉𝖆𝖒 𝕹𝖔𝖊𝖗 𝕳𝖎𝖉𝖆𝖞𝖆𝖙𝖚𝖑𝖑𝖔𝖍 📜
+
 <p align="center">
   <img src="assets/banner-vintage.svg" alt="Adam Noer Hidayatulloh" width="100%" />
 </p>
@@ -22,33 +26,33 @@
   <img src="assets/divider-pixel.svg" width="100%" height="14" />
 </p>
 
-## ❦ Tentang Saya
+</div>
 
-Fullstack Developer & Engineering Deputy Lead dengan **5+ tahun pengalaman** membangun sistem end-to-end yang scalable dan user-centric. Berpengalaman memimpin tim cross-functional, merancang arsitektur enterprise-grade, dan mengoptimalkan SDLC untuk mempercepat siklus deployment tanpa mengorbankan stabilitas sistem.
+## ♜ [ Character Profile ]
 
-Saat ini fokus mengembangkan produk berbasis **AI/Computer Vision** — mulai dari Virtual Try-On untuk produk luxury watches, sistem deteksi cacat produk berbasis YOLO, hingga fitur AI-integrated pada ERP internal menggunakan LLM open-source yang di-fine-tune sendiri.
+**Class:** Fullstack Developer & Engineering Deputy Lead  
+**Level:** 5+ Years of Experience  
+**Base:** Jonggol, Bogor, West Java
 
-```
-> whoami
-Adam Noer Hidayatulloh — Jonggol, Bogor, West Java
+Seorang *crafter* kode yang membangun sistem end-to-end dengan skalabilitas tinggi dan *user-centric*. Terbiasa memimpin *guild* (tim cross-functional), merancang arsitektur enterprise-grade, dan mengoptimalkan SDLC untuk mempercepat siklus deployment tanpa mengorbankan stabilitas sistem. 
 
-> current_focus
-["Virtual Try-On Tool", "AI-Integrated ERP System"] @ Wrapstation
+Saat ini sedang berfokus menyelesaikan *Main Quest* dalam mengembangkan produk berbasis **AI/Computer Vision** — mulai dari *Virtual Try-On* untuk jam tangan mewah, sistem deteksi cacat produk berbasis YOLO, hingga integrasi AI pada ERP internal menggunakan LLM open-source hasil *fine-tuning* mandiri.
 
-> currently_learning
-Computer Vision · LLM Fine-Tuning · AI-driven Product Architecture
-
-> status
-Open for collaboration on web development & applied AI projects
+```bash
+[~] ./adam_status.sh
+> current_focus      = ["Virtual Try-On Tool", "AI-Integrated ERP System"] @ Wrapstation
+> currently_learning = Computer Vision · LLM Fine-Tuning · AI-driven Product Architecture
+> active_buffs       = 99.9% System Uptime Aura
+> status             = Open for co-op on web dev & applied AI quests
 ```
 
 <p align="center">
   <img src="assets/divider-pixel.svg" width="100%" height="14" />
 </p>
 
-## ❦ Perkakas & Teknologi
+## ⚔️ [ Skill Tree & Inventory ]
 
-**Front-End**
+### 🛡️ Front-End
 <p>
   <img src="https://img.shields.io/badge/React-3E2723?style=flat-square&logo=react&logoColor=D4A017" />
   <img src="https://img.shields.io/badge/Vue.js-3E2723?style=flat-square&logo=vue.js&logoColor=D4A017" />
@@ -58,7 +62,7 @@ Open for collaboration on web development & applied AI projects
   <img src="https://img.shields.io/badge/Astro-3E2723?style=flat-square&logo=astro&logoColor=D4A017" />
 </p>
 
-**Back-End**
+### 🗡️ Back-End
 <p>
   <img src="https://img.shields.io/badge/Laravel-6B6B3A?style=flat-square&logo=laravel&logoColor=F4ECD8" />
   <img src="https://img.shields.io/badge/Nest.js-6B6B3A?style=flat-square&logo=nestjs&logoColor=F4ECD8" />
@@ -66,15 +70,15 @@ Open for collaboration on web development & applied AI projects
   <img src="https://img.shields.io/badge/CodeIgniter-6B6B3A?style=flat-square&logo=codeigniter&logoColor=F4ECD8" />
 </p>
 
-**AI / Machine Learning**
+### 🔮 AI & Machine Learning
 <p>
   <img src="https://img.shields.io/badge/OpenCV-B5651D?style=flat-square&logo=opencv&logoColor=F4ECD8" />
   <img src="https://img.shields.io/badge/TensorFlow-B5651D?style=flat-square&logo=tensorflow&logoColor=F4ECD8" />
-  <img src="https://img.shields.io/badge/YOLO-Object_Detection-B5651D?style=flat-square" />
-  <img src="https://img.shields.io/badge/LLM-Fine--Tuning-B5651D?style=flat-square" />
+  <img src="https://img.shields.io/badge/YOLO_Detection-B5651D?style=flat-square" />
+  <img src="https://img.shields.io/badge/LLM_Fine--Tuning-B5651D?style=flat-square" />
 </p>
 
-**DevOps & Tools**
+### ⚙️ DevOps & Tools
 <p>
   <img src="https://img.shields.io/badge/Docker-8A6D3B?style=flat-square&logo=docker&logoColor=F4ECD8" />
   <img src="https://img.shields.io/badge/AWS-8A6D3B?style=flat-square&logo=amazon-aws&logoColor=F4ECD8" />
@@ -88,30 +92,33 @@ Open for collaboration on web development & applied AI projects
   <img src="assets/divider-pixel.svg" width="100%" height="14" />
 </p>
 
-## ❦ Rekam Jejak
+## 📜 [ Quest Log: Rekam Jejak ]
 
-<table>
-<tr><th align="left">Peran</th><th align="left">Perusahaan</th><th align="left">Periode</th></tr>
-<tr><td>Fullstack Developer</td><td>Wrapstation</td><td>May 2026 – Present</td></tr>
-<tr><td>Senior Fullstack Developer & Deputy Leader</td><td>PT Bizera Digital Indonesia</td><td>Jun 2025 – Mar 2026</td></tr>
-<tr><td>Senior Software Engineer</td><td>PT Vaganza Solusi Internasional</td><td>Mar 2022 – Apr 2025</td></tr>
-<tr><td>Fullstack Web Developer</td><td>Bima Global Study</td><td>Oct 2024 – Mar 2025</td></tr>
-<tr><td>Fullstack Developer (Freelance)</td><td>Freelancer</td><td>Apr 2021 – Present</td></tr>
-</table>
+| Peran / Title | Guild / Perusahaan | Periode |
+| :--- | :--- | :--- |
+| **Fullstack Developer** | Wrapstation | May 2026 – Present |
+| **Senior Fullstack Dev & Deputy Leader** | PT Bizera Digital Indonesia | Jun 2025 – Mar 2026 |
+| **Senior Software Engineer** | PT Vaganza Solusi Internasional | Mar 2022 – Apr 2025 |
+| **Fullstack Web Developer** | Bima Global Study | Oct 2024 – Mar 2025 |
+| **Fullstack Developer** *(Mercenary)* | Freelancer | Apr 2021 – Present |
 
-> 🏆 Menjaga **99.9% system uptime** pada aplikasi web berskala enterprise sambil memimpin tim cross-functional dan merancang arsitektur RESTful/GraphQL yang scalable.
+> 🏆 **Achievement Unlocked:** Menjaga **99.9% system uptime** pada aplikasi web berskala enterprise sambil memimpin tim cross-functional dan merancang arsitektur RESTful/GraphQL yang *scalable*.
 
 <p align="center">
   <img src="assets/divider-pixel.svg" width="100%" height="14" />
 </p>
 
-## ❦ Mari Terhubung
+## 📡 [ Multiplayer / Co-op Mode ]
 
 <p align="center">
-  📱 0822-9793-0060 &nbsp;|&nbsp; 📧 adamnoer62@gmail.com &nbsp;|&nbsp; 🌐 <a href="https://portofolioadam.xyz">portofolioadam.xyz</a>
+  📱 0822-9793-0060 &nbsp;⬩&nbsp; 📧 <a href="mailto:adamnoer62@gmail.com">adamnoer62@gmail.com</a> &nbsp;⬩&nbsp; 🌐 <a href="https://portofolioadam.xyz">portofolioadam.xyz</a>
 </p>
 
-<p align="center"><i>"Building scalable systems, one commit at a time."</i></p>
+<p align="center">
+  <br/>
+  <i>"Building scalable systems, one commit at a time."</i><br/>
+  <small><b>[ Press START to collaborate ]</b></small>
+</p>
 
 <p align="center">
   <img src="assets/divider-pixel.svg" width="100%" height="14" />
