@@ -97,7 +97,7 @@ Currently on a **Main Quest** to develop **AI/Computer Vision** products — ran
 | :--- | :--- | :--- | :--- |
 | **Fullstack Developer** | Wrapstation | Tangerang | May 2026 – Present |
 | **Senior Fullstack Dev & Deputy Lead** | PT Bizera Digital Indonesia | Jakarta Timur | Jun 2025 – Mar 2026 |
-| **Senior Software Engineer** | PT Vaganza Solusi Internasional | - | Mar 2022 – Apr 2025 |
+| **Senior Software Engineer** | PT Vaganza Solusi Internasional | Bandung | Mar 2022 – Apr 2025 |
 | **Fullstack Web Developer** | Bima Global Study | Malang | Oct 2024 – Mar 2025 |
 | **Fullstack Developer** *(Mercenary)* | Freelancer | Bogor | Apr 2021 – Present |
 
@@ -110,7 +110,7 @@ Currently on a **Main Quest** to develop **AI/Computer Vision** products — ran
 ## 🏫 [ Training Grounds: Education ]
 
 **Politeknik Pos Indonesia - Bandung**  
-*Associate Degree in Informatics Engineering* | Jun 2017 – Apr 2021
+
 
 <p align="center">
   <img src="assets/divider-pixel.svg" width="100%" height="14" />
