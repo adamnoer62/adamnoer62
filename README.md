@@ -86,12 +86,6 @@ Currently on a **Main Quest** to develop **AI/Computer Vision** products — ran
   <img src="assets/divider-pixel.svg" width="100%" height="14" />
 </p>
 
-## 🗺️ [ Side Quests: Recent Projects ]
-
-*   **Nalar.ai** 🧠 — A Tailwind-styled wrapper application connecting messaging endpoints with Notion workspaces.
-*   **NexusPlay** 🎮 — A multimedia micro-blogging and interactive polling web platform built from scratch.
-*   **RPG Fitness App** ⚔️ — A local-first Flutter application utilizing state management for daily exercise quests, inspired by *Solo Leveling*.
-*   **Dark Survival RPG** 🏕️ — Exploring custom mechanics and world-building in RPG Maker.
 
 <p align="center">
   <img src="assets/divider-pixel.svg" width="100%" height="14" />
